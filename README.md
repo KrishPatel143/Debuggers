@@ -74,7 +74,7 @@
 
 ## Demo 
 
-https://user-images.githubusercontent.com/50458157/138034031-fdce342c-be61-45d1-a18a-c5a65c8aafe8.mp4
+https://github.com/KrishPatel143/Debuggers/blob/main/demo1.mp4
 
 
 
