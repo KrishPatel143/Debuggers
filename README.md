@@ -74,7 +74,7 @@
 
 ## Demo 
 
-https://github.com/KrishPatel143/Debuggers/blob/main/demo1.mp4
+![App Screenshot](https://github.com/KrishPatel143/Debuggers/blob/main/demo1.mp4)
 
 
 
