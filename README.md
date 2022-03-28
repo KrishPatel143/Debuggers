@@ -74,12 +74,7 @@
 
 ## Demo 
 
-<video controls>
-  <source src="https://github.com/KrishPatel143/Debuggers/blob/main/demo1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-
+![](https://github.com/KrishPatel143/Debuggers/blob/main/demo1.gif)
 
 
 
